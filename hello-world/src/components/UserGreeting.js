@@ -13,7 +13,7 @@ import React, { Component } from 'react'
 
     render() {
         //conditinal rendering
-           //4th aproach               //shrt circuit operator
+           //4th aproach               //short circuit operator
 
        return this.state.isLoggedIn && <div>welcome Vikas</div> 
 
